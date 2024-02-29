@@ -3,7 +3,7 @@
 <!--                                                         -->
 <!-- Copyright 1986-2015 Xilinx, Inc. All Rights Reserved.   -->
 
-<Project Version="7" Minor="5" Path="/home/ugrads/h/hernandezh99/ecen248/lab10/lab10/lab10.xpr">
+<Project Version="7" Minor="5" Path="/home/<user_path>/lab10.xpr">
   <DefaultLaunch Dir="$PRUNDIR"/>
   <Configuration>
     <Option Name="Id" Val="7f792f3b140a454798f993731c3963cd"/>
